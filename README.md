@@ -1,4 +1,4 @@
-# AuthmeVelocity Exploit | Velocity Version
+# AuthmeVelocity Exploit <= 4.1.1 | Velocity Version 
 
 Exploit found by user @SpigotRCE.
 
