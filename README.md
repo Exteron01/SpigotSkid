@@ -1,6 +1,6 @@
 # AuthmeVelocity Exploit <= 4.1.1 | Velocity Version 
 
-Exploit was found by the [https://discord.gg/bukkit/](Autism Inc team), later skidded by @SpigotRCE.
+Exploit was found by the [Autism Inc team](https://discord.gg/bukkit), later skidded by @SpigotRCE.
 
 This velocity version was created for MCPTool.
 
